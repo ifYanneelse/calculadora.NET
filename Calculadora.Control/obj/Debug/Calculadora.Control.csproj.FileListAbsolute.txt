@@ -1,0 +1,11 @@
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\bin\Debug\Calculadora.Control.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\bin\Debug\Calculadora.Control.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\bin\Debug\Calculadora.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\bin\Debug\Calculadora.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\obj\Debug\Calculadora.Control.csproj.AssemblyReference.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\obj\Debug\Calculadora.Control.UI.resources
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\obj\Debug\Calculadora.Control.csproj.GenerateResource.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\obj\Debug\Calculadora.Control.csproj.CoreCompileInputs.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\obj\Debug\Calculadora.Control.csproj.CopyComplete
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\obj\Debug\Calculadora.Control.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora.Control\obj\Debug\Calculadora.Control.pdb

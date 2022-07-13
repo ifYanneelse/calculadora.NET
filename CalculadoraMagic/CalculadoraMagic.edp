@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="CalculadoraMagic"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{8DF41AAE-7196-4CD8-8F53-FB448F7D9E50}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14072.00"/>
+  </_Project>
+
+</Application>

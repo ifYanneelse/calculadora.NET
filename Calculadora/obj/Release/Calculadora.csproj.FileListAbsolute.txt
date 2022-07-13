@@ -1,0 +1,12 @@
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\bin\Release\Calculadora.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\bin\Release\Calculadora.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Release\Calculadora.csproj.AssemblyReference.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Release\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Release\Calculadora.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Release\Calculadora.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora-Yanne_Roberto-CIGAM\Calculadora\bin\Release\Calculadora.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora-Yanne_Roberto-CIGAM\Calculadora\bin\Release\Calculadora.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora-Yanne_Roberto-CIGAM\Calculadora\obj\Release\Calculadora.csproj.AssemblyReference.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora-Yanne_Roberto-CIGAM\Calculadora\obj\Release\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora-Yanne_Roberto-CIGAM\Calculadora\obj\Release\Calculadora.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora-Yanne_Roberto-CIGAM\Calculadora\obj\Release\Calculadora.pdb

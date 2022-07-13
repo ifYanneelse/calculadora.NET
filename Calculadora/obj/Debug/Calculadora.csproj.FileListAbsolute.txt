@@ -1,0 +1,6 @@
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\Projects\ProjetoCalculadora\Calculadora\obj\Debug\Calculadora.pdb
