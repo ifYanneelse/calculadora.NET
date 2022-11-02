@@ -3,7 +3,6 @@ simple calculator application using C# | Windows Forms | .NET framework | Class 
 
 ### Funcionalidades:
 - [x] Calcular 4 operações matemáticas básicas: Somar, Subtrair, Multiplicar e Dividir.
-- [x] 
 
 ### Screen
 
