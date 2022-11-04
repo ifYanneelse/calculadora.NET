@@ -6,21 +6,9 @@ simple calculator application using C# | Windows Forms | .NET framework | Class 
 
 ### Screen
 
-<p align="center" width="100%">
-<img width="50%" src="">
-  
-  
-<img width="30%" src="">  
+<img width="40%" src="Screen/calculadoraui.png">   
 
-  <br>
-  
-<img width="60%" src=""> 
-  
-   <br>  
-  
-<img width="60%" src="">
-  
-</p>
+<br>
 
 ### Ferramentas utilizadas
 - Visual Studio 2022: .Net Framework
